@@ -1,0 +1,15 @@
+D:/FPGA/CompurterAchitecture/Example/src/Example.v {1 {vlog -work work -stats=none {D:\FPGA\CompurterAchitecture\Example\src\Example.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Example
+
+Top level modules:
+	Example
+
+} {} {}} D:/FPGA/CompurterAchitecture/Example/tb/Example_test.v {1 {vlog -work work -stats=none {D:\FPGA\CompurterAchitecture\Example\tb\Example_test.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Example_test
+
+Top level modules:
+	Example_test
+
+} {} {}}

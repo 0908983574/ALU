@@ -1,0 +1,66 @@
+# Compile of ALU.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALU_test.v failed with 3 errors.
+# Compile of ALU.v was successful.
+# Compile of ALU_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.ALU_test
+# vsim work.ALU_test 
+# Start time: 10:04:53 on Sep 30,2021
+# Loading work.ALU_test
+# Loading work.ALU
+# Loading work.FA
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'ALU_1'.  Expected 5, found 4.
+#    Time: 0 ps  Iteration: 0  Instance: /ALU_test/ALU_1 File: D:/FPGA/CompurterAchitecture/ALU/tb/ALU_test.v Line: 9
+add wave -position insertpoint  \
+sim:/ALU_test/DATA_WIDTH \
+sim:/ALU_test/a_t \
+sim:/ALU_test/b_t \
+sim:/ALU_test/cin_t \
+sim:/ALU_test/s_t
+run
+run
+quit -sim
+# End time: 14:53:36 on Sep 30,2021, Elapsed time: 4:48:43
+# Errors: 0, Warnings: 10
+# Compile of ALU_test.v failed with 1 errors.
+# Compile of ALU_test.v failed with 1 errors.
+# Compile of ALU_test.v was successful.
+vsim work.ALU_test
+# vsim work.ALU_test 
+# Start time: 14:54:41 on Sep 30,2021
+# Loading work.ALU_test
+# Loading work.ALU
+# Loading work.FA
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'ALU_1'.  Expected 5, found 4.
+#    Time: 0 ps  Iteration: 0  Instance: /ALU_test/ALU_1 File: D:/FPGA/CompurterAchitecture/ALU/tb/ALU_test.v Line: 9
+add wave -position insertpoint  \
+sim:/ALU_test/DATA_WIDTH \
+sim:/ALU_test/a_t \
+sim:/ALU_test/b_t \
+sim:/ALU_test/cin_t \
+sim:/ALU_test/s_t
+run
+quit -sim
+# End time: 14:55:57 on Sep 30,2021, Elapsed time: 0:01:16
+# Errors: 0, Warnings: 5
+# Compile of ALU_test.v was successful.
+vsim work.ALU_test
+# vsim work.ALU_test 
+# Start time: 14:56:12 on Sep 30,2021
+# Loading work.ALU_test
+# Loading work.ALU
+# Loading work.FA
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'ALU_1'.  Expected 5, found 4.
+#    Time: 0 ps  Iteration: 0  Instance: /ALU_test/ALU_1 File: D:/FPGA/CompurterAchitecture/ALU/tb/ALU_test.v Line: 9
+add wave -position insertpoint  \
+sim:/ALU_test/DATA_WIDTH \
+sim:/ALU_test/a_t \
+sim:/ALU_test/b_t \
+sim:/ALU_test/cin_t \
+sim:/ALU_test/s_t
+run
+# ** Note: $finish    : D:/FPGA/CompurterAchitecture/ALU/tb/ALU_test.v(67)
+#    Time: 260 ns  Iteration: 0  Instance: /ALU_test
+# End time: 14:56:29 on Sep 30,2021, Elapsed time: 0:00:17
+# Errors: 0, Warnings: 1

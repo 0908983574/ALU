@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+vExample
+!s110 1632964547
+!i10b 1
+!s100 2zmWD?V9]1[D3D=1^b3Yf1
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I5>kI`cm=<^Ggm:iE8OF:@2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/FPGA/CompurterAchitecture/Example/sim
+w1632964542
+8D:\FPGA\CompurterAchitecture\Example\src\Example.v
+FD:\FPGA\CompurterAchitecture\Example\src\Example.v
+!i122 0
+L0 1 7
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1632964547.000000
+!s107 D:\FPGA\CompurterAchitecture\Example\src\Example.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\FPGA\CompurterAchitecture\Example\src\Example.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@example
+vExample_test
+!s110 1632965358
+!i10b 1
+!s100 5a0M]mMZ<Sc6fZc8K?XQ83
+R0
+Ih=Y4:EP]6g4;OB0De^>II0
+R1
+R2
+w1632965342
+8D:\FPGA\CompurterAchitecture\Example\tb\Example_test.v
+FD:\FPGA\CompurterAchitecture\Example\tb\Example_test.v
+!i122 1
+L0 2 15
+R3
+r1
+!s85 0
+31
+!s108 1632965358.000000
+!s107 D:\FPGA\CompurterAchitecture\Example\tb\Example_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\FPGA\CompurterAchitecture\Example\tb\Example_test.v|
+!i113 1
+R4
+R5
+n@example_test
