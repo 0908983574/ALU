@@ -1,9 +1,10 @@
-module Example (
+module ALU   ( //Change verilog file
     out, in
 );
     input in;
     output out;
-    assign out = in;
 
+    assign out = in;
+    assign out = in;
     
 endmodule
