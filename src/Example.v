@@ -1,4 +1,4 @@
- (
+module ALU   ( //Change verilog file
     out, in
 );
     input in;
